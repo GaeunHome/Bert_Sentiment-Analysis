@@ -1,7 +1,7 @@
 # 基於BERT之情感分析預測
 ### 前處理
-- 只使用Postive、Negative、Neutral
-- 移除Irrelevant
+- 只使用 `Postive` 、 `Negative` 、 `Neutral`
+- 移除 `Irrelevant`
 
 ### 設備
 - Google Colab GPU T4
