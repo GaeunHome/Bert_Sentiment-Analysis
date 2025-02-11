@@ -1,2 +1,6 @@
 # 基於BERT之情感分析預測
-資料集與驗證集來源：https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+### 前處理
+- 只使用Postive、Negative、Neutral
+- 移除Irrelevant
+---
+資料集、驗證集來源：https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
